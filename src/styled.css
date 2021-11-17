@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+html {
+    font-size: 12px;
+}
+
+body {
+    padding: 50px;
+    text-align: center;
+    background-color: blanchedalmond;
+    font-family: 'Josefin Sans', cursive;
+}
+
+.text {
+    text-align: left !important;
+    text-shadow: #000000 3px 4px 2px;
+    
+}
+
+.card {
+    background-color: rgb(34, 34, 34) !important;
+    -webkit-box-shadow: 5px 5px 15px 5px #000000; 
+    box-shadow: 5px 5px 15px 5px #000000;
+}
+
+.white {
+    color: blanchedalmond !important;
+}
+
+.colorTitle {
+    color: rgb(34, 34, 34) !important;
+    font-weight: 900;
+    text-shadow: 2px 2px 2px blanchedalmond;
+    font-size: 40px !important;
+}
+
+.backInput {
+    background-color: blanchedalmond !important;
+    color: rgb(34, 34, 34) !important;
+    font-weight: 0 !important;
+    text-align: center !important;
+}
+.backInput:focus {
+    background-color: blanchedalmond !important;
+    color: rgb(34, 34, 34) !important;
+    border-color: yellow !important;
+    box-shadow: 0 0 0 0.25rem rgb(255 255 150 / 25%) !important;
+    font-weight: 0 !important;
+    text-align: center !important;
+}
+.decoration {
+    color: blanchedalmond;
+    background: #1a1a1a00;
+    text-shadow: 0 0 15px rgba(255,255,255,.5), 0 0 10px rgba(255,255,255,.5);
+}
+
+.button {
+    background-color: rgb(34, 34, 34) !important;
+    color: blanchedalmond !important;
+    -webkit-box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 31px 36px 50px 39px rgba(0,0,0,0.75); 
+    box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 31px 36px 50px 39px rgba(0,0,0,0.75);
+}
+
+.button:focus{
+    background-color: rgb(34, 34, 34) !important;
+    color: blanchedalmond !important;
+    -webkit-box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 31px 36px 50px 39px rgba(0,0,0,0.75); 
+    box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 31px 36px 50px 39px rgba(0,0,0,0.75);
+}
+
+.update {
+    color: rgb(255, 217, 160);
+    background: rgb(34, 34, 34);
+    text-shadow: 0 0 15px rgb(143, 253, 39), 0 0 10px rgba(158, 253, 94, 0.5);
+}
+
+.input {
+    margin-left: 30% !important;
+    margin-right: 30% !important;
+}
+
+.info {
+    border-radius: 50% !important;
+    width: 35px !important;
+    height: 35px !important;
+    margin-left: 15px !important;
+    color: blanchedalmond !important; 
+    border-color:blanchedalmond !important; 
+    background-color: blanchedalmond !important;
+}
+
+.i {
+    margin-top: 2px !important;
+    color:rgb(34, 34, 34);
+    text-shadow: 1px 1px 0px #BA6A11;
+    
+}
+
+
+
